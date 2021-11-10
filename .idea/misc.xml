@@ -3,11 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/custom_input.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_warning_24.xml" value="0.3687179487179487" />
+        <entry key="app/src/main/res/drawable/ic_danger.xml" value="0.3687179487179487" />
+        <entry key="app/src/main/res/drawable/ic_googleicon.xml" value="0.3687179487179487" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/ic_logogugel.xml" value="0.3687179487179487" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/ic_preson.xml" value="0.215625" />
+        <entry key="app/src/main/res/drawable/panic_button_shape.xml" value="0.3687179487179487" />
         <entry key="app/src/main/res/drawable/shape_primary.xml" value="0.3687179487179487" />
         <entry key="app/src/main/res/drawable/shape_secondary.xml" value="0.3687179487179487" />
+        <entry key="app/src/main/res/drawable/shape_third.xml" value="0.3687179487179487" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="app/src/main/res/layout/activity_panic_button.xml" value="0.35833333333333334" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.35833333333333334" />
-        <entry key="app/src/main/res/layout/activity_sign_in2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_sign_in2.xml" value="0.5227882037533512" />
+        <entry key="app/src/main/res/layout/activity_sign_up2.xml" value="0.33" />
       </map>
     </option>
   </component>

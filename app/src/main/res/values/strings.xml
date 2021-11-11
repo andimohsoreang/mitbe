@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MitBe</string>
+    <string name="masuk_google">Masuk dengan Google</string>
+    <string name="masuk">Ayo Masuk !</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIgn In</string>
+    <string name="todo">TODO</string>
+    <string name="signup">SIgn Up</string>
+</resources>
